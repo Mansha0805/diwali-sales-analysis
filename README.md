@@ -134,7 +134,7 @@ diwali-sales-analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/diwali-sales-analysis.git
+git clone https://github.com/Mansha0805/diwali-sales-analysis.git
 cd diwali-sales-analysis
 ```
 
